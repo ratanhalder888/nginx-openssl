@@ -98,3 +98,11 @@ http {
     }
 }
 ```
+## Reload nginx
+```
+sudo systemctl reload nginx
+```
+
+## Picture http redirect to https
+<img width="1476" height="432" alt="Screenshot_20260419_195433" src="https://github.com/user-attachments/assets/0c79850d-3b59-4da7-9722-310cb6289a41" />
+
